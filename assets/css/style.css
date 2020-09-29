@@ -553,9 +553,23 @@ div.form {
   width: 110%;
 }
 
+.resume-container {
+  background-color: #cbf1f5;
+  height: 600px;
+}
+
+.resume {
+  padding-top: 100px;
+  /* display: inline-block; */
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
 textarea {
   resize: none;
 }
+
 
 .contact_me_header {
   text-align: center;
